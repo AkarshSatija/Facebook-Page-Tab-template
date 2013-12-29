@@ -1,0 +1,183 @@
+
+.nbar-1
+{
+	height: 100px;
+	background-color: #a5bb41;
+	border-bottom: #a5bb41;
+	margin-bottom: 0px;
+
+
+}
+
+.nbar-22
+{
+	height: 35px;
+	background-color: #c2d46f;
+
+}
+
+.bar-2
+{
+	height: 20px;
+	background-color: #a5bb41;
+	border-bottom: #a5bb41;
+}
+
+.nbar-10
+{
+	height: 40px;
+	border-bottom: #a5bb41;
+	margin-bottom: 0px;
+}
+
+.imaget
+{
+float: right;
+  border:1px solid red;	
+}
+
+.like
+{
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+	float: right;
+	  border:1px solid blue;
+	  margin-right: 3%;
+}
+
+
+
+
+.col-white
+{	color: green;
+
+} 
+
+
+.jumbo p 
+{
+	text-align: center;
+	font-weight: bolder;
+}
+
+.col-white
+{	color: green;
+
+}
+
+.jumbo
+{
+	background: url("");
+	padding: 0px;
+		text-align: center;
+	margin-bottom: 0px;
+	border-bottom: 2px solid #dce5b3;
+}
+.jumbu
+{
+	background: url("");margin-right: 0%;
+	margin-left: 14%;
+}
+
+
+
+
+.jumbo1
+{
+	background: url("");
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	padding:0%;
+	
+
+
+}
+
+
+
+
+.row p
+{
+	text-align: left;
+	font-weight: bolder;
+
+}
+
+.btn-lg
+{
+	
+	background-color: #96b30f;
+	border: 1px solid #96b30f;
+	min-width: 22%;
+	margin-top: 10px;
+
+}
+
+.oye
+{
+	text-align: center;
+margin: 0px;
+display: inline-block;
+}
+
+
+
+
+.maindiv
+{
+	
+	
+	margin-left: 10%;
+}
+
+.deepak, .swami, .khan, .jaggi, .ravi
+{
+	float: left;
+	margin-left: 4%;
+	
+	text-align: center;
+}
+
+.deepak p
+{
+	margin: 0px;
+}
+.swami p
+{
+	margin: 0px;
+}
+.khan p
+{
+	margin: 0px;
+}
+.jaggi p
+{
+	margin: 0px;
+}
+.ravi p
+{
+	margin: 0px;
+
+}
+.maindiv2
+{
+	
+	display: block;
+	margin-left: 25%;
+	width: 50%;
+	height: 30px;
+	font-size: 15px;
+
+}
+
+.ti 
+{
+float: right;
+
+}
+.cp 
+{
+float: left;
+}
